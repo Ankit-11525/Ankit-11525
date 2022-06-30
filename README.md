@@ -8,7 +8,7 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 
 
 - Most used line of code  `git commit -m "Initial Commit"`
-- 📫 How to reach me: ankit.pathak.ug20@nsut.ac.in@gmail.com.
+- 📫 How to reach me: ankit.pathak.ug20@nsut.ac.in
 - 😄 Pronouns: He/His
 
 ## Languages and Tools:
