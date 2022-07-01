@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Ankit!](https://ankit-11525.github.io/portfoliowebsite.github.io/) 
 
-A Fullstack Webdeveloper and Open source enthusiast from India :india:
+A Frontend Webdeveloper and Open source enthusiast(beginner) from India :india:
 
 ## Socials:
 
