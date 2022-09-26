@@ -15,7 +15,7 @@ A Frontend Webdeveloper and Open source enthusiast(beginner) from India :india:
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  
-<a href="https://app.daily.dev/Akp"><img src="https://api.daily.dev/devcards/c5f339d6da4f45709e5e2973ccbbe8b2.png?r=hf1" width="400" alt="Ankit Pathak (ANKIT 2K20/B12/04)'s Dev Card"/></a>
+
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +24,10 @@ A Frontend Webdeveloper and Open source enthusiast(beginner) from India :india:
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+<a href="https://app.daily.dev/Akp"><img src="https://api.daily.dev/devcards/c5f339d6da4f45709e5e2973ccbbe8b2.png?r=hf1" width="400" alt="Ankit Pathak (ANKIT 2K20/B12/04)'s Dev Card"/></a>
+
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
