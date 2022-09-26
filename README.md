@@ -15,6 +15,8 @@ A Frontend Webdeveloper and Open source enthusiast(beginner) from India :india:
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  
+<a href="https://app.daily.dev/Akp"><img src="https://api.daily.dev/devcards/c5f339d6da4f45709e5e2973ccbbe8b2.png?r=hf1" width="400" alt="Ankit Pathak (ANKIT 2K20/B12/04)'s Dev Card"/></a>
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +29,6 @@ A Frontend Webdeveloper and Open source enthusiast(beginner) from India :india:
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
   ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-11525&show_icons=true&theme=tokyonight)
   ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ankit-11525&show_icons=true&locale=en&layout=compact&theme=onedark)
-  <a href="https://app.daily.dev/Akp"><img src="https://api.daily.dev/devcards/c5f339d6da4f45709e5e2973ccbbe8b2.png?r=hf1" width="400" alt="Ankit Pathak (ANKIT 2K20/B12/04)'s Dev Card"/></a>
+  
   
   
