@@ -26,7 +26,7 @@ A Frontend Webdeveloper and Open source enthusiast(beginner) from India :india:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
-  <a href="https://app.daily.dev/Akp"><img src="https://api.daily.dev/devcards/c5f339d6da4f45709e5e2973ccbbe8b2.png?r=hf1" width="300" alt="Ankit Pathak (ANKIT 2K20/B12/04)'s Dev Card"/></a>
+  
   ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-11525&show_icons=true&theme=tokyonight)
   ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ankit-11525&show_icons=true&locale=en&layout=compact&theme=onedark)
   
